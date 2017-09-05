@@ -1,2 +1,3 @@
 # Guide
-GPUImage的学习过程和资料
+FFmpeg  http://blog.csdn.net/leixiaohua1020
+
